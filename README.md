@@ -14,3 +14,5 @@ In the most recent State of Play report conducted by the Aspen Institute, key fi
 #### Exploring funding and resource disparities in US public schools.
 
 This project seeks to explore whether higher free/reduced price lunch (FRPL) rates correlate with larger class sizes, and how these patterns might vary across public schools depending on the school locale and the predominant racial/ethnic composition of their students. Understanding the relationship between these variables is essential for identifying resource disparities and addressing potential systemic inequities within the educational system. Historically, the U.S public education system has been shaped by racial and economic inequality, and continues to affect how resource allocation varies by school today.
+([A Multivariable Analysis of Racial, Socioeconomic, and Geographic Disparities in U.S Public Schools](lab2.pdf))
+
