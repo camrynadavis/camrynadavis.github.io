@@ -3,7 +3,7 @@
 ### Contact
 [email](camryn.davis@bison.howard.edu) | [LinkedIn](https://www.linkedin.com/in/camryn-davis-53476820a/) | [GitHub](https://github.com/camrynadavis)
 
-View my CV: [2025 CV Camryn Davis](2025_Digital_Resume.html)
+View my CV: [2025 CV Camryn Davis](Digital_Resume.html)
 
 ### Projects
 #### Audience Perception & Class Imbalance: ML Models on Horror Film Data. 
