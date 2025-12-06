@@ -9,7 +9,7 @@ View my CV: [2025 CV Camryn Davis](2025_Digital_Resume.html)
 #### Audience Perception & Class Imbalance: ML Models on Horror Film Data. 
 
 The goal of this project was initially to reveal biases in audience perception between Black horror films and general horror films using Random Forest and Naive Bayes models using film review tags and ratings sourced from MovieLens. During the exploration, another goal arose of whether models would be able to make clear predictive and linguistic distinctions between the two classes, with the use of SVM. Though data scarcity was a challenge to overcome, with there not being enough film data available, the models were able to make clear distinctions. 
-([Audience Perception & Class Imbalance: ML Models on Horror Film Data](file:///Users/camrynadavis/Downloads/final_proj.html))
+([Audience Perception & Class Imbalance: ML Models on Horror Film Data](final_proj.html))
 
 
 #### Exploring funding and resource disparities in US public schools.
