@@ -6,6 +6,18 @@
 View my CV: [2026 CV Camryn Davis](2026_Digital_Resume.html)
 
 ### Projects
+
+#### Exploring Socioeconomic Barriers in Division I Basketball Recruitment
+Year-round sports specialization has become vital in youth sports development; however, the pay-to-play structure impacts the 
+scouting process. While AAU (Amateur Athletic Union) and club teams are the primary avenues for players being scouted for Division I 
+sports, these teams are becoming increasingly inaccessible. According to a 2025 report by the Aspen Institute’s Project Play, youth 
+sports expenses rose by 46% between 2019 and 2024. These rising costs suggest that recruitment is not only a result of talent, but also 
+a reflection of socioeconomic factors. This project explores how socioeconomic factors – specifically household median income – impact 
+NCAA Division I recruitment density and seeks to answer whether there quantifiable evidence of “scouting deserts,” or areas where high 
+talent players are potentially overlooked.
+
+[Exploring Socioeconomic Barriers in Division I Basketball Recruitment](https://public.flourish.studio/story/3640122/)
+
 #### Audience Perception & Class Imbalance: ML Models on Horror Film Data. 
 
 The goal of this project was initially to reveal biases in audience perception between Black horror films and general horror films using Random Forest and Naive Bayes models using film review tags and ratings sourced from MovieLens. During the exploration, another goal arose of whether models would be able to make clear predictive and linguistic distinctions between the two classes, with the use of SVM. Though data scarcity was a challenge to overcome, with there not being enough film data available, the models were able to make clear distinctions. 
